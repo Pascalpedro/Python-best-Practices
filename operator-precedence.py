@@ -1,0 +1,3 @@
+# Python operators usually evaluate left to right, except for the exponentiation operator...
+
+print(2**(3**2), (2**3)**2, (2**3)**3)
